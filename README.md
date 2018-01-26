@@ -1,6 +1,8 @@
 # node js client server
 
-all the details about the project are written in the Document.pdf file.
+Method for creating peerto-peer connections over an interconnected  network to facilitate data transfer among users
+
+all the details about the project are written in the Document.pdf file
 
 in order to run the project you should install beloow programs:
 
