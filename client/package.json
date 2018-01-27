@@ -8,6 +8,7 @@
     "email": ""
   },
   "dependencies": {
+    "mkdirp": "^0.5.1",
     "sha256": "^0.2.0"
   }
 }
