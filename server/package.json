@@ -1,0 +1,15 @@
+{
+  "name": "tracker",
+  "version": "0.0.0",
+  "description": "tracker",
+  "main": "app.js",
+  "author": {
+    "name": "pegah",
+    "email": ""
+  },
+  "dependencies": {
+    "fs-extra": "^0.18.3",
+    "sha256": "^0.2.0",
+    "sqlite3": "^3.0.8"
+  }
+}
